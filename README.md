@@ -2,7 +2,6 @@
 Version information:
 spaCy version    3.2.2                         
 Platform         Windows-10
-
 Python version   3.7.4  
 
 Need the following directories/files created:
