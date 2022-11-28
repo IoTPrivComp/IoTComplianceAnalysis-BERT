@@ -4,7 +4,6 @@ spaCy version    3.2.2
 Platform         Windows-10
 Python version   3.7.4  
 
-
 Need the following directories/files created:
 /ext/combined_tables
 /ext/plaintext_policies (place all the policy text files here to be analyzed)
